@@ -12,6 +12,7 @@ public class Collatz {
         } else {
             return n * 2;
         }
+        // just to check
     }
 
     public static void main(String[] args) {
