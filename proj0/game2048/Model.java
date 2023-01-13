@@ -160,7 +160,7 @@ public class Model extends Observable {
         if (changed) {
             setChanged();
         }
-        return changed;
+        return changed;//check
     }
 
     /** Checks if the game is over and sets the gameOver variable
